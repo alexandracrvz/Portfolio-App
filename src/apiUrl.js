@@ -1,6 +1,6 @@
 let apiUrl
 const apiUrls = {
-  production: 'murmuring-spire-40831',
+  production: 'rocky-tor-49981',
   development: 'http://localhost:3000/'
 }
 
